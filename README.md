@@ -389,10 +389,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
 
-**Tanmay Itammineedi**
-- GitHub: [@tanmayitammineedi](https://github.com/tanmayitammineedi)
 
 ## 🙏 Acknowledgments
 
@@ -407,4 +404,4 @@ For support, email support@smartparking.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by Tanmay Itammineedi
+Made with ❤️ by Syamala Sruthi Devisetty
